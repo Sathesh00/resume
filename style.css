@@ -1,0 +1,18 @@
+#fire {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(15, 14, 14);
+    color: red; /* Add this line to change font color to red */
+    font-weight: 400
+}
+
+#ten {
+    padding-left: 430px; /* Adjust this value to control the amount of space */
+}
+
+.info {
+    background-color: #ffffff;
+    
+}
+#fire{
+flex-wrap: wrap;
+}
